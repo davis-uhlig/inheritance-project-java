@@ -24,8 +24,8 @@ public class TextNotification extends Notification {
 
     @Override
     public void transport() {
-        System.out.println(this.recipient);
-        System.out.println(this.smsProvider);
+        System.out.println(getRecipient());
+        System.out.println(getSmsProvider());
         System.out.println(getCreatedAt());
         System.out.println(getSubject());
         System.out.println(getBody());

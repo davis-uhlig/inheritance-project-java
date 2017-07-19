@@ -22,6 +22,10 @@ public class Notification {
         return createdAt;
     }
 
+    public String getStatus() {
+        return status;
+    }
+
     public String getSubject() {
         return subject;
     }
