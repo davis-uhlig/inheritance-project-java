@@ -60,6 +60,6 @@ public class EmailNotification extends Notification {
 
     @Override
     protected Object clone() throws CloneNotSupportedException {
-        return new EmailNotification(getSubject(), getBody(), this.getRecipient(), this.getSmtpProvider());
+        return new EmailNotification(getSubject(), getBody(), getRecipient(), getSmtpProvider());
     }
 }

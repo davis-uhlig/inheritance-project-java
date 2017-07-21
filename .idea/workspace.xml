@@ -62,8 +62,8 @@
       <file leaf-file-name="EmailNotification.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/theironyard/davisUhlig/EmailNotification.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="62" column="51" lean-forward="false" selection-start-line="62" selection-start-column="51" selection-end-line="62" selection-end-column="51" />
+            <state relative-caret-position="459">
+              <caret line="62" column="78" lean-forward="true" selection-start-line="62" selection-start-column="78" selection-end-line="62" selection-end-column="78" />
               <folding>
                 <element signature="e#487#488#0" expanded="true" />
                 <element signature="e#519#520#0" expanded="true" />
@@ -508,8 +508,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/theironyard/davisUhlig/EmailNotification.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="62" column="51" lean-forward="false" selection-start-line="62" selection-start-column="51" selection-end-line="62" selection-end-column="51" />
+        <state relative-caret-position="459">
+          <caret line="62" column="78" lean-forward="true" selection-start-line="62" selection-start-column="78" selection-end-line="62" selection-end-column="78" />
           <folding>
             <element signature="e#487#488#0" expanded="true" />
             <element signature="e#519#520#0" expanded="true" />
